@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+websockets
+motor    # MongoDB async driver
+elasticsearch
+redis
+pydantic
+pydantic-settings
+celery
+geoip2
+requests
+python-dotenv

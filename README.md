@@ -45,7 +45,7 @@ ThreatScope is divided into two distinct parts:
 | **Backend API** | Python, FastAPI |
 | **Real-Time Data** | WebSockets |
 
----
+--- 
 
 ## 🚀 Installation Guide
 
@@ -153,9 +153,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author Information
 **Gaurav**  
+**Rohan Yadav**  
 *Cybersecurity Enthusiast & Developer*  
 - GitHub: [@gaurav5815](https://github.com/gaurav5815)
-- LinkedIn: [Your LinkedIn Profile URL](#)
+- GitHub: [@rohan1205](https://github.com/rohan1205)
+
 
 ---
 *If you find this project useful or interesting, please leave a ⭐️ on the repository!*
